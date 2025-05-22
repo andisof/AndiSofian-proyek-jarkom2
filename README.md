@@ -1,4 +1,6 @@
 # AndiSofian-proyek-jarkom2
+Jawab UTS no 1. Instalasi Server Linux https://youtu.be/oFJez5NrAu4
+
 Jawaban UTS no 2. Konfigurasi DHCP Server
 
 a) Instalasi dan konfigurasi isc-dhcp-server
