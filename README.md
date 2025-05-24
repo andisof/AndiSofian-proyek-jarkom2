@@ -14,7 +14,7 @@ b) Konfigurasi IP range, subnet, gateway
 c) Tampilkan uji coba IP otomatis di client dengan ip a atau ifconfig
 ![hasil configurasi dhcp](https://github.com/user-attachments/assets/410a00b3-5ed9-432b-b7aa-6aff05ac8c0b)
 
-Jawaban UTS no 3. Konfigurasi DNS Server - /etc/bind/named.conf.local
+Jawaban UTS no 3. Konfigurasi DNS Server - /etc/bind/named.conf.local video https://youtu.be/j6bb8i8JwJM 
 
 a) Instalasi dan konfigurasi bind9
 ![hasil instalasi bind9](https://github.com/user-attachments/assets/a5709d95-c039-4d3f-a1a9-ebab7cf3885c)
@@ -24,6 +24,13 @@ b)Buat zona DNS forward dan reverse untuk domain *.local
 ![buat zona lokal](https://github.com/user-attachments/assets/de115a2e-fa32-4c67-bd97-3504e0faad59)
 ![buat zona lokal 2](https://github.com/user-attachments/assets/247d132a-dc68-4ef8-8d5d-7db2c15da354)
 ![buat zona lokal 3](https://github.com/user-attachments/assets/0a180bcc-5d9b-4201-b2e3-b220d5fc3f9b)
+
+Jawaban UTS no 3. Konfigurasi Firewall https://youtu.be/3ejaFbrTovs
+![Konfigurasi](https://github.com/user-attachments/assets/51723ab4-6ac9-4d11-9d34-f9d169919192)
+![Konfigurasi 2](https://github.com/user-attachments/assets/3fc27873-b9e9-4d3f-b2c3-cf9484b2609c)
+![Konfigurasi 3](https://github.com/user-attachments/assets/a83473ac-aed3-469a-abb5-1d5cdecccd67)
+![Konfigurasi Allow](https://github.com/user-attachments/assets/8b8d08a2-78a2-4f25-82f2-2846548934ce)
+
 
 
 
